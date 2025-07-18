@@ -1,10 +1,10 @@
-package cz.jachym.priklad1;
+package cz.jachym.fiks;
 
 /**
  *
  * https://fiks.fit.cvut.cz/problems/11/1/1
  */
-public class Priklad1 {
+public class Main {
 
     public static void main(String[] args) {
 
